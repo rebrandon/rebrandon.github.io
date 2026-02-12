@@ -6,7 +6,7 @@ minimal_mistakes_skin: "dirt" # Options: "default", "air", "contrast", "dark", "
 title: "Shiny Living Dex" # This appears in the top left 'Logo' area
 name: "Brandon"           # This appears in your sidebar profile
 description: "Documenting my journey to catch 'em all in sparkles."
-url: "https://[YourUsername].github.io" 
+url: "https://rebrandon.github.io" 
 baseurl: "" # Leave empty unless your repo is NOT named [username].github.io
 
 # Build Settings
