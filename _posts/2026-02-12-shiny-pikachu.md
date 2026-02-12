@@ -3,7 +3,7 @@ layout: single
 title: "Shiny Pikachu"
 date: 2026-02-12
 header:
-  teaser: /assets/images/Pokémon_Pikachu_art.png
+  teaser: Pokémon_Pikachu_art.png
 ---
 
 ### The Story
