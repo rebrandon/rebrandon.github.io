@@ -23,6 +23,17 @@ I love exploring new methods to shiny hunting as I work to complete my end goal 
 * **Current Goal:** Securing the Shiny Charm in Pokémon Legends Arceus.
 
 ---
+### 🏛️ The Shiny Hall of Fame
+These are the hunts that defined my journey—the ones that took the longest, the ones I almost failed, and my absolute favorites.
+
+| Pokemon | Method | Date | Notes |
+| :--- | :--- | :--- | :--- |
+| **Pikachu** | Mass Outbreak | Feb 2026 | The one that started the site! |
+| **Rayquaza** | Dynamax Adventures | Feb 2026 | 142 encounters for the Black Dragon. |
+| **Slaking** | Full Odds | Jan 2026 | Caught as a Slakoth; now the Master. |
+
+
+---
 
 ### 🦋 Let's Connect
 I'm active on the "Shiny Side" of BlueSky! You can find my latest updates and reactions to catches here:
