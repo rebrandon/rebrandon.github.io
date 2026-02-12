@@ -1,6 +1,13 @@
-# Hunter's Resources
-Here are the tools I use for my Shiny Living Dex:
+---
+layout: single
+title: "Hunter's Resources"
+permalink: /resources/
+author_profile: true
+---
 
-* [PokeDexTracker](https://pokedextracker.com) - The best way to track progress.
-* [Serebii Shiny Discovery](https://serebii.net) - To check if a mon is shiny locked.
-* **My Sandwich Guide:** Use 2 Herba Mystica + [Ingredient] for Level 3 Sparking Power.
+# 📚 Helpful Links
+* [Serebii](https://serebii.net) - For checking shiny locks.
+* [PokemonDB](https://pokemondb.net) - For move sets and evolution info.
+
+# 🥪 Sandwich Recipes
+* **Sparkling Power 3:** 2x Herba Mystica + [Ingredient]...
