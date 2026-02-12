@@ -3,7 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "sunrise" # Options: "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-title: "Shiny Living Dex <i class='fas fa-sparkles' style='color: #f1c40f;'></i>" # This appears in the top left 'Logo' area
+title: "Rebrandon's Journey to a Shiny Living Dex <i class='fas fa-sparkles' style='color: #f1c40f;'></i>" # This appears in the top left 'Logo' area
 name: "Brandon"           # This appears in your sidebar profile
 description: "Documenting my journey to catch 'em all in sparkles."
 url: "https://rebrandon.github.io" 
