@@ -3,7 +3,7 @@ layout: single
 title: "Shiny Pikachu"
 date: 2026-02-12
 header:
-  teaser: /_assets/images/pikachu.png 
+  teaser: /assets/images/pikachu.png 
 ---
 
 ### The Story
@@ -26,7 +26,7 @@ Write a few sentences here about how the hunt went! Did you almost fail it? Did 
 ---
 
 ### 📸 Gallery
-![Your Catch 1](/_assets/images/pikachu.png)
+![Your Catch 1](/assets/images/pikachu.png)
 *Capturing the sparkle!*
 
 ---
