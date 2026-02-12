@@ -9,6 +9,10 @@ description: "Documenting my journey to catch 'em all in sparkles."
 url: "https://rebrandon.github.io" 
 baseurl: "" # Leave empty unless your repo is NOT named [username].github.io
 
+# Site Icons
+favicon: "/assets/images/favicon.ico"
+apple_touch_icon: "/assets/images/apple-touch-icon.png"
+
 # Build Settings
 plugins:
   - jekyll-include-cache
