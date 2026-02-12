@@ -1,12 +1,9 @@
 ---
 layout: single
-title: "✨ Shiny [Pokemon Name] ✨"
+title: "Shiny Pikachu"
 date: 2026-02-12
-categories: catches
-tags: [Gen1, Paldea, Mass-Outbreak]
 header:
-  overlay_image: /assets/images/header-bg.jpg # Optional: a background image for the header
-  teaser: /assets/images/thumbnails/pikachu.jpg # The small thumbnail for the archive page
+  teaser: /assets/images/pikachu.jpg
 ---
 
 ### The Story
