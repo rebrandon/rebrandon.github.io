@@ -1,8 +1,10 @@
-# Main Navigation Links
+# main links
 main:
   - title: "All Catches"
     url: /year-archive/
+  - title: "By Tag"
+    url: /tags/
   - title: "Resources"
     url: /resources/
   - title: "Shiny Tracker"
-    url: "https://pokedextracker.com/u/rebrandon" # Replace with your link
+    url: "https://pokedextracker.com/u/rebrandon"
