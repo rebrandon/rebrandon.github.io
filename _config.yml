@@ -32,7 +32,7 @@ author:
       url: "https://pokedextracker.com/u/rebrandon"
     - label: "BlueSky"
       icon: "fab fa-fw fa-cloud" # Or "fab fa-fw fa-bluesky" if the theme is updated
-      url: "https://bsky.app/profile/YOUR-USER.bsky.social"
+      url: "https://bsky.app/profile/therebrandon.bsky.social"
 
 # Defaults for Posts (The "Blog" Experience)
 defaults:
