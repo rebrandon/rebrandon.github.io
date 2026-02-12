@@ -4,9 +4,13 @@ title: "About the Trainer"
 permalink: /about/
 author_profile: true
 header:
-  overlay_color: "#4a148c" # Keeps your purple sunset theme consistent
+  overlay_image: /assets/images/website pic.jpg
+  overlay_filter: 0.5 # This adds a dark tint so your white title "pops"
+  caption: "The Master and the Slaking" # Optional: Small text in the bottom right
+  actions:
+    - label: "View my BlueSky"
+      url: "https://bsky.app/profile/rebrandon.bsky.social"
 ---
-
 ### 👋 Who is Brandon?
 Welcome to my corner of the Pokémon world! I've been a fan since the Generation 1 days. I got Pokémon Blue on my 10th birthday starting my journey in the Pokémon world similar to Ash from the Pokémon anime. After 26 years of training Pokémon, I've turned my focus toward the ultimate challenge: the **Shiny Living Dex**.
 
