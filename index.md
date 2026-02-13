@@ -13,7 +13,7 @@ feature_row:
     alt: "Shiny Pikachu"
     title: "Pikachu"
     excerpt: "The journey begins! Found in a Mass Outbreak."
-    url: "/catches/2026/02/12/shiny-pikachu.html"
+    url: "/catches/2026/02/10/shiny-crobat.html"
     btn_label: "View Hunt"
     btn_class: "btn--primary"
   - image_path: /assets/images/rayquaza.jpg
