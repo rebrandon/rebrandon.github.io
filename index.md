@@ -9,10 +9,10 @@ header:
   overlay_filter: 0.5      # This tints the photo purple so the text stays readable
   caption: "Paldea"
 feature_row:
-  - image_path: /assets/images/pikachu.png
-    alt: "Shiny Pikachu"
-    title: "Pikachu"
-    excerpt: "The journey begins! Found in a Mass Outbreak."
+  - image_path: /assets/images/168.gif
+    alt: "Shiny Crobat"
+    title: "Crobat"
+    excerpt: "The OG."
     url: "/catches/2026/02/10/shiny-crobat.html"
     btn_label: "View Hunt"
     btn_class: "btn--primary"
