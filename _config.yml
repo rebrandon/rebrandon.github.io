@@ -23,29 +23,29 @@ plugins:
 
 # Sidebar/Author Settings
 search: true
-aauthor:
+author:
   name: "Brandon the Slaking Master"
+  avatar: "/assets/images/website pic 1.png"
   bio: |
     Shiny Hunter
+    
     **Living Dex: 215/1025**
     <div style="background: #eee; border-radius: 5px; height: 10px; width: 100%; margin-top: 5px;">
       <div style="background: #fb8c00; height: 10px; width: 21%; border-radius: 5px;"></div>
     </div>
-    
+
     ---
     **🎯 Active Hunts**
-    * **Buzzwole (US/UM Wormholes)**: 
-    * **Tandemaus (Outbreak)**: 450
-    * **Sprigatito (Masuda)**: 12
-  avatar: "/assets/images/website pic 1.png" # You can upload a trainer sprite here!
-  links:
-    - label: "PokeDexTracker"
-      icon: "fas fa-fw fa-link"
-      url: "https://pokedextracker.com/u/rebrandon"
-    - label: "BlueSky"
-      icon: "fab fa-fw fa-cloud" # Or "fab fa-fw fa-bluesky" if the theme is updated
-      url: "https://bsky.app/profile/therebrandon.bsky.social"
+    * 💪🏻 **Buzzwole**: 221 (US/UM Wormhole SRs)
 
+  location: "Paldea"
+  links:
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-cloud"
+      url: "https://bsky.app/profile/rebrandon.bsky.social"
+    - label: "PokeDexTracker"
+      icon: "fas fa-fw fa-th"
+      url: "https://pokedextracker.com/u/rebrandon"
 # Defaults for Posts (The "Blog" Experience)
 defaults:
   - scope:
