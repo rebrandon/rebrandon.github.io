@@ -17,7 +17,7 @@ BUCKY is my Crobat that I caught many, many years ago in Emerald. I remember cat
 
 | Detail | Info |
 | :--- | :--- |
-| **Species** | [Crobat] |
+| **Species** | Crobat |
 | **Game** | Pokémon Emerald |
 | **Method** | Random Encounter - Full Odds |
 | **Shiny Charm?** | No |
@@ -34,5 +34,5 @@ BUCKY is my Crobat that I caught many, many years ago in Emerald. I remember cat
 ---
 
 ### 🗺️ Location
-Caught at **North Province (Area Three)** while hunting for something else entirely.
+Caught in **Meteor Falls** while EV training.
  
