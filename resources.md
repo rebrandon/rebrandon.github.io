@@ -10,4 +10,4 @@ author_profile: true
 * [PokemonDB](https://pokemondb.net) - For move sets and evolution info.
 
 # 🥪 Sandwich Recipes
-* **Sparkling Power 3:** 2x Herba Mystica + [Ingredient]...
+* [Sandwich Calculator](https://birbzone.com/sandwich/) - Sandwich making app for S/V
